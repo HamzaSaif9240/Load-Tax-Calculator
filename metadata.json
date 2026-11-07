@@ -1,0 +1,6 @@
+{
+  "name": "Load Calculator Pakistan",
+  "description": "Offline Pakistan mobile load and advance income tax calculator for Jazz, Telenor, Zong, and Ufone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
